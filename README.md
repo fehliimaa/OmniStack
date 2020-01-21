@@ -1,4 +1,4 @@
-# Aplicação - DavRadar
+# Aplicação - DevRadar
 
 Semana OmniStack Edição 10.0 - Por: Rocketseat
 
